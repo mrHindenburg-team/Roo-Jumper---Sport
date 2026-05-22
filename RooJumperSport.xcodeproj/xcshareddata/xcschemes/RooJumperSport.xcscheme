@@ -8,27 +8,18 @@
       buildArchitectures = "Automatic">
       <BuildActionEntries>
          <BuildActionEntry
-            buildForTesting = "NO"
-            buildForRunning = "NO"
-            buildForProfiling = "NO"
-            buildForArchiving = "NO"
-            buildForAnalyzing = "NO">
-            <BuildableReference
-               BuildableIdentifier = "primary"
-               BlueprintIdentifier = "72755AF02FBF1D45000845CF"
-               BuildableName = "RooJumperSport.app"
-               BlueprintName = "RooJumperSport"
-               ReferencedContainer = "container:Roo Jumper - Sport.xcodeproj">
-            </BuildableReference>
-         </BuildActionEntry>
-         <BuildActionEntry
             buildForTesting = "YES"
             buildForRunning = "YES"
             buildForProfiling = "YES"
             buildForArchiving = "YES"
             buildForAnalyzing = "YES">
-            <AutocreatedTestPlanReference>
-            </AutocreatedTestPlanReference>
+            <BuildableReference
+               BuildableIdentifier = "primary"
+               BlueprintIdentifier = "72755AF02FBF1D45000845CF"
+               BuildableName = "RooJumperSport.app"
+               BlueprintName = "RooJumperSport"
+               ReferencedContainer = "container:RooJumperSport.xcodeproj">
+            </BuildableReference>
          </BuildActionEntry>
       </BuildActionEntries>
    </BuildAction>
@@ -55,7 +46,7 @@
             BlueprintIdentifier = "72755AF02FBF1D45000845CF"
             BuildableName = "RooJumperSport.app"
             BlueprintName = "RooJumperSport"
-            ReferencedContainer = "container:Roo Jumper - Sport.xcodeproj">
+            ReferencedContainer = "container:RooJumperSport.xcodeproj">
          </BuildableReference>
       </MacroExpansion>
    </LaunchAction>
@@ -65,6 +56,16 @@
       savedToolIdentifier = ""
       useCustomWorkingDirectory = "NO"
       debugDocumentVersioning = "YES">
+      <BuildableProductRunnable
+         runnableDebuggingMode = "0">
+         <BuildableReference
+            BuildableIdentifier = "primary"
+            BlueprintIdentifier = "72755AF02FBF1D45000845CF"
+            BuildableName = "RooJumperSport.app"
+            BlueprintName = "RooJumperSport"
+            ReferencedContainer = "container:RooJumperSport.xcodeproj">
+         </BuildableReference>
+      </BuildableProductRunnable>
    </ProfileAction>
    <AnalyzeAction
       buildConfiguration = "Debug">
