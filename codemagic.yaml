@@ -11,8 +11,8 @@ workflows:
         bundle_identifier: com.RooJumper.app
       vars:
         BUNDLE_ID: "com.RooJumper.app"
-        XCODE_PROJECT: "Roo Jumper - Sport.xcodeproj" # <-- Xcode project
-        XCODE_SCHEME: "Roo Jumper - Sport" # <-- Xcode scheme
+        XCODE_PROJECT: "RooJumperSport.xcodeproj" # <-- Xcode project
+        XCODE_SCHEME: "RooJumperSport" # <-- Xcode scheme
         APP_STORE_APPLE_ID: "6772174739" # <-- Должно быть строкой
       xcode: latest
       cocoapods: default
