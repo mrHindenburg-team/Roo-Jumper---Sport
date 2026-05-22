@@ -11,9 +11,9 @@
 /* End PBXFileReference section */
 
 /* Begin PBXFileSystemSynchronizedRootGroup section */
-		72755AF32FBF1D45000845CF /* Roo Jumper - Sport */ = {
+		72755AF32FBF1D45000845CF /* RooJumperSport */ = {
 			isa = PBXFileSystemSynchronizedRootGroup;
-			path = "Roo Jumper - Sport";
+			path = RooJumperSport;
 			sourceTree = "<group>";
 		};
 /* End PBXFileSystemSynchronizedRootGroup section */
@@ -32,7 +32,7 @@
 		72755AE82FBF1D45000845CF = {
 			isa = PBXGroup;
 			children = (
-				72755AF32FBF1D45000845CF /* Roo Jumper - Sport */,
+				72755AF32FBF1D45000845CF /* RooJumperSport */,
 				72755AF22FBF1D45000845CF /* Products */,
 			);
 			sourceTree = "<group>";
@@ -61,7 +61,7 @@
 			dependencies = (
 			);
 			fileSystemSynchronizedGroups = (
-				72755AF32FBF1D45000845CF /* Roo Jumper - Sport */,
+				72755AF32FBF1D45000845CF /* RooJumperSport */,
 			);
 			name = RooJumperSport;
 			packageProductDependencies = (
@@ -85,7 +85,7 @@
 					};
 				};
 			};
-			buildConfigurationList = 72755AEC2FBF1D45000845CF /* Build configuration list for PBXProject "Roo Jumper - Sport" */;
+			buildConfigurationList = 72755AEC2FBF1D45000845CF /* Build configuration list for PBXProject "RooJumperSport" */;
 			developmentRegion = en;
 			hasScannedForEncodings = 0;
 			knownRegions = (
@@ -323,7 +323,7 @@
 /* End XCBuildConfiguration section */
 
 /* Begin XCConfigurationList section */
-		72755AEC2FBF1D45000845CF /* Build configuration list for PBXProject "Roo Jumper - Sport" */ = {
+		72755AEC2FBF1D45000845CF /* Build configuration list for PBXProject "RooJumperSport" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
 				72755AFA2FBF1D47000845CF /* Debug */,
