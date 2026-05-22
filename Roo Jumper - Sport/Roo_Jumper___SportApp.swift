@@ -1,12 +1,16 @@
-//___FILEHEADER___
-
 import SwiftUI
+import SwiftData
 
 @main
-struct ___PACKAGENAME:identifier___App: App {
+struct RooJumperSport: App {
+
+    @State private var purchaseManager = SubscriptionManagerBPV()
+
     var body: some Scene {
         WindowGroup {
             ContentView()
+                .environment(purchaseManager)
         }
+        .modelContainer(for: [UserProgress.self, TrainingSessionRecord.self])
     }
 }
